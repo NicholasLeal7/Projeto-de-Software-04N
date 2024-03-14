@@ -30,86 +30,86 @@ Escolhendo esse tema, listamos os casos de uso que são mais convenientes:
 
 1. Passageiro pesquisa os voos com data e destino;
    
-O passageiro inicia pesquisando voos com informações como data e destino. Isso permite que ele veja as opções disponíveis para o período desejado.
+   O passageiro inicia pesquisando voos com informações como data e destino. Isso permite que ele veja as opções disponíveis para o período desejado.
 
 
 2. Passageiro seleciona o voô que ele deseja (existe a opção de filtro);
    
-Após a pesquisa, o passageiro escolhe o voo que melhor atende às suas necessidades. Ele pode aplicar filtros para refinar os resultados.
+   Após a pesquisa, o passageiro escolhe o voo que melhor atende às suas necessidades. Ele pode aplicar filtros para refinar os resultados.
 
-exemplos de filtros: preço, duração do voo, escalas, companhia aérea, etc.
+   Exemplos de filtros: preço, duração do voo, escalas, companhia aérea, etc.
 
 
 3. Para comprar passagem precisa inserir os dados do(s) passageiro(s);
    
-Para comprar a passagem, o passageiro precisa inserir os seguintes dados para cada passageiro:
+   Para comprar a passagem, o passageiro precisa inserir os seguintes dados para cada passageiro:
 
-Nome completo
+   Nome completo
 
-Data de nascimento
+   Data de nascimento
 
-Número do documento de identificação (RG ou passaporte)
+   Número do documento de identificação (RG ou passaporte)
 
-Contato de emergência
+   Contato de emergência
 
 
 4. Opção de escolher assento ou não;
    
-O passageiro tem a opção de escolher um assento específico no avião ou optar por não selecionar um assento.
+   O passageiro tem a opção de escolher um assento específico no avião ou optar por não selecionar um assento.
 
-Pode ter custo adicional dependendo da companhia aérea e do lugar.
+   Pode ter custo adicional dependendo da companhia aérea e do lugar.
 
 
 5. Seleciona se deseja serviço adicional;
    
-O passageiro pode selecionar serviços adicionais, como:
+   O passageiro pode selecionar serviços adicionais, como:
 
-Bagagem despachada: Informando a quantidade e o peso da bagagem.
+   Bagagem despachada: Informando a quantidade e o peso da bagagem.
 
-Refeições especiais: Escolhendo opções como vegetariana, sem glúten, etc.
+   Refeições especiais: Escolhendo opções como vegetariana, sem glúten, etc.
 
-Wi-Fi a bordo: Se disponível no voo.
+   Wi-Fi a bordo: Se disponível no voo.
 
-Detalhe: Pode haver custo extra dependendo do serviço escolhido.
+   Detalhe: Pode haver custo extra dependendo do serviço escolhido.
 
 
 6. Confirmação de detalhes de viagem;
    
-O passageiro revisa os detalhes da viagem, incluindo:
+   O passageiro revisa os detalhes da viagem, incluindo:
 
-Origem e destino
+   Origem e destino
 
-Horário do voo
+   Horário do voo
 
-Preço total
+   Preço total
 
 
 7. Efetuar pagamento com tais métodos de pagamento;
    
-Cartão de crédito
+   Cartão de crédito
 
-Transferência bancária
+   Transferência bancária
 
-Uso de milhas aéreas
+   Uso de milhas aéreas
 
 
 8. Receber comprovante de pagamento por E-mail;
 
-Número do voo
+   Número do voo
 
-Código de reserva
+   Código de reserva
 
-Recibo de pagamento
+   Recibo de pagamento
 
 
 9. E-mail para o Passageiro enviando opção de check-in e bilhete.
 
-Horário de embarque
+   Horário de embarque
+   
+   Portão de embarque
 
-Portão de embarque
+   Detalhes do voô
 
-Detalhes do voô
+   PDF com cartão de embarque
 
-PDF com cartão de embarque
-
-Detalhe: e-mail só é enviado 24 a 48 horas antes do voô
+   Detalhe: e-mail só é enviado 24 a 48 horas antes do voô
