@@ -102,7 +102,7 @@ Escolhendo esse tema, listamos os casos de uso que são mais convenientes:
    Recibo de pagamento
 
 
-9. E-mail para o Passageiro enviando opção de check-in e bilhete.
+9. E-mail para o Passageiro enviando opção de check-in e bilhete;
 
    Horário de embarque
    
