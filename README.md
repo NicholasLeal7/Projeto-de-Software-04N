@@ -33,14 +33,14 @@ Escolhendo esse tema, listamos os casos de uso que são mais convenientes:
 O passageiro inicia pesquisando voos com informações como data e destino. Isso permite que ele veja as opções disponíveis para o período desejado.
 
 
-3. Passageiro seleciona o voô que ele deseja (existe a opção de filtro);
+2. Passageiro seleciona o voô que ele deseja (existe a opção de filtro);
    
 Após a pesquisa, o passageiro escolhe o voo que melhor atende às suas necessidades. Ele pode aplicar filtros para refinar os resultados.
 
 exemplos de filtros: preço, duração do voo, escalas, companhia aérea, etc.
 
 
-4. Para comprar passagem precisa inserir os dados do(s) passageiro(s);
+3. Para comprar passagem precisa inserir os dados do(s) passageiro(s);
    
 Para comprar a passagem, o passageiro precisa inserir os seguintes dados para cada passageiro:
 
@@ -53,14 +53,14 @@ Número do documento de identificação (RG ou passaporte)
 Contato de emergência
 
 
-5. Opção de escolher assento ou não;
+4. Opção de escolher assento ou não;
    
 O passageiro tem a opção de escolher um assento específico no avião ou optar por não selecionar um assento.
 
 Pode ter custo adicional dependendo da companhia aérea e do lugar.
 
 
-6. Seleciona se deseja serviço adicional;
+5. Seleciona se deseja serviço adicional;
    
 O passageiro pode selecionar serviços adicionais, como:
 
@@ -73,7 +73,7 @@ Wi-Fi a bordo: Se disponível no voo.
 Detalhe: Pode haver custo extra dependendo do serviço escolhido.
 
 
-7. Confirmação de detalhes de viagem;
+6. Confirmação de detalhes de viagem;
    
 O passageiro revisa os detalhes da viagem, incluindo:
 
@@ -84,7 +84,7 @@ Horário do voo
 Preço total
 
 
-8. Efetuar pagamento com tais métodos de pagamento;
+7. Efetuar pagamento com tais métodos de pagamento;
    
 Cartão de crédito
 
@@ -93,7 +93,7 @@ Transferência bancária
 Uso de milhas aéreas
 
 
-9. Receber comprovante de pagamento por E-mail;
+8. Receber comprovante de pagamento por E-mail;
 
 Número do voo
 
@@ -102,7 +102,7 @@ Código de reserva
 Recibo de pagamento
 
 
-10. E-mail para o Passageiro enviando opção de check-in e bilhete.
+9. E-mail para o Passageiro enviando opção de check-in e bilhete.
 
 Horário de embarque
 
