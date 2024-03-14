@@ -11,12 +11,15 @@ Gustavo Ibara            - 42210720 - 10389067
 # Minicurrículos:
 
 Patrick Gonçalves
+
 Trabalho em uma empresa de contabilidade desde agosto de 2023 e trabalho no setor financeiro da empresa. Além disso, sou um estudante dedicado de programação. Possuo certificado de Excel avançado, programação em Java e tenho inglês avançado.
 
 Nicholas Leal
+
 Trabalho no banco Bradesco desde fevereiro de 2022, atuando como estagiário no desenvolvimento web para soluções departamentais. Como estudante de programação, tenho habilidades em inglês avançado, nas ferramentas Microsoft Office, tecnologias/linguagens como PHP, Javascript, Python, HTML e CSS.
 
 Gustavo Ibara
+
 Trabalho na Engemon IT em um projeto interno no Banco Pan, atuando como estágiario Field e gestão de ativos. Possuo Inglês avançado além de cursos nas ferramentas do Microsoft Office, e nas linguagens: C, Html e Css.
 
 # Resumo da proposta de tema de projeto do grupo:
