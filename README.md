@@ -37,7 +37,7 @@ Escolhendo esse tema, listamos os casos de uso que são mais convenientes:
    
    Após a pesquisa, o passageiro escolhe o voo que melhor atende às suas necessidades. Ele pode aplicar filtros para refinar os resultados.
 
-   Exemplos de filtros: preço, duração do voo, escalas, companhia aérea, etc.
+   Exemplos de filtros: aeroporto, preço, duração do voo, escalas, companhia aérea, etc.
 
 
 3. Para comprar passagem precisa inserir os dados do(s) passageiro(s);
