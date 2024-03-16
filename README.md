@@ -55,7 +55,7 @@ Escolhendo esse tema, listamos os casos de uso que são mais convenientes:
 
 4. Opção de escolher assento ou não;
    
-   O passageiro tem a opção de escolher um assento específico no avião ou optar por não selecionar um assento.
+   O passageiro tem a opção de escolher um assento específico mostrado por um mapa do avião, ou optar por não selecionar um assento.
 
    Pode ter custo adicional dependendo da companhia aérea e do lugar.
 
